@@ -19,3 +19,4 @@ jobs:
         run: python main.py
         env:
           TOKEN: ${{ secrets.TOKEN }}
+
